@@ -31,7 +31,7 @@ This project consists of three main components:
 - **Flask**: Python web framework for hosting the sentiment analysis model.
 - **VaderSentiment**: Python library for sentiment analysis.
 - **Express.js**: Node.js framework for the backend server.
-- **Axios**: For making HTTP requests from the frontend to the backend.
+- **Axios**: For making HTTP requests from the express server to the flask server.
 - **Streamlit**: For building the frontend server.
 
 ---
